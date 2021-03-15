@@ -1,0 +1,9 @@
+.portfolio__navigation {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.portfolio__selector + .portfolio__selector {
+  margin-left: 8px;
+}
